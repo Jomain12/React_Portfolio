@@ -1,3 +1,7 @@
+TO run the deployed application click the link below
+
+(https://reactportfolio1221.herokuapp.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
