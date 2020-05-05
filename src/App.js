@@ -3,9 +3,9 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import AboutMe from "./pages/aboutMe";
 import Contacts from "./pages/contacts";
 import Portfolio from "./pages/portfolio";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import Wrapper from "./components/Wrapper";
+import Header from "./components/header";
+import Footer from "./components/footer";
+import Wrapper from "./components/wrapper";
 import "./App.css";
 
 function App() {
