@@ -14,7 +14,7 @@ a {
 }
 .name {
   color: white;
-  background-color: red;
+  background-color: royalblue;
 }
 nav {
   font-size: larger;
@@ -34,4 +34,31 @@ header {
 }
 #contentHeader {
   border-bottom: 2px solid #777777;
+}
+#frmContact {
+  color: #777777;
+}
+#btnSubmit {
+  font-size: x-large;
+  color: white;
+  background-color: royalblue;
+}
+.tag {
+  color: white;
+  background-color: royalblue;
+}
+.card-text {
+  text-align: left;
+  font-size: 12pt;
+}
+.card-title {
+  text-align: left;
+}
+.card-subtitle {
+  text-align: left;
+  font-size: smaller;
+  color: lightblue;
+}
+a.card-link {
+  text-align: left;
 }
