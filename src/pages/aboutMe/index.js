@@ -17,7 +17,7 @@ function AboutMe() {
               height="200px"
               width="200px"
               className="myPicture img-fluid"
-              src="./images/Jomain!.jpg"
+              src="./images/jomain!.jpg"
               alt=""
             />
           </div>
