@@ -36,7 +36,7 @@ function Portfolio() {
             description="Node Express Handlebars application with MySQL to Log Burgers to eat."
             authors="Jomain Rouser"
             repoLink="https://github.com/Jomain12/burger"
-            appLink="https://calm-ocean-92878.herokuapp.com/"
+            appLink="https://git.heroku.com/jomain-burgers.git"
           />
         </div>
         <div className="row">
@@ -54,7 +54,7 @@ function Portfolio() {
             description="This application allows the user to Create, Save, Display, and Delete Notes."
             authors="Jomain Rouser"
             repoLink="https://github.com/Jomain12/note_taker"
-            appLink="https://quiet-garden-96214.herokuapp.com/"
+            appLink="https://git.heroku.com/jomain-notetaker.git/"
           />
           <Project
             imgSrc="./images/codequiz.jpg"
@@ -80,7 +80,16 @@ function Portfolio() {
             description="Allows you to look through a list of employees and filter then by first name."
             authors="Jomain Rouser"
             repoLink="https://github.com/Jomain12/reactEmployeeDirectory"
-            appLink="https://radiant-caverns-51458.herokuapp.com/"
+            appLink="https://git.heroku.com/jomain-employeedirectory.git"
+          />
+          <Project
+            imgSrc="./images/books.jpg"
+            imgTitle="React Books Search"
+            description="Allows you to search for books based off of several different criteria then provides you a link to look at that book or allows you to save the book for later so you can come back if you're not sure if you want it."
+            authors="Jomain Rouser"
+            repoLink="https://github.com/Jomain12/GoogleBooksReact"
+            appLink="https://git.heroku.com/react-books-search1221.git
+            "
           />
         </div>
       </div>
