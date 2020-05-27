@@ -23,12 +23,13 @@ function Portfolio() {
             appLink="https://kcgooner.github.io/Project_1"
           />
           <Project
-            imgSrc="./images/blogger.jpg"
-            imgTitle="Animal Blogging App"
-            description="This application validates users through a log in and then allows them to post blogs about animals."
-            authors="Jomain Rouser, Avery Rouser, Kevin Ngo"
-            repoLink="https://github.com/Jomain12/blogger_proj2"
-            appLink="https://blogger1221.herokuapp.com/"
+            imgSrc="./images/covid19.jpg"
+            imgTitle="Covid19 Tracker"
+            description="This is a covid-19 tracking application that shows how the coronavirus has affected specific Countries. This is valuable because it allows people to keep track 
+            of the most dangerous places that have high levels of coronavirus and learn about how to stay safe from it."
+            authors="Jomain Rouser, Avery Rouser, Kevin Ngo, Jeffrey Bell"
+            repoLink="https://github.com/Jomain12/SoloCovid19Tracker"
+            appLink="https://jomain-covid19.herokuapp.com/#/"
           />
           <Project
             imgSrc="./images/burger-icon.jpg"
@@ -88,8 +89,7 @@ function Portfolio() {
             description="Allows you to search for books based off of several different criteria then provides you a link to look at that book or allows you to save the book for later so you can come back if you're not sure if you want it."
             authors="Jomain Rouser"
             repoLink="https://github.com/Jomain12/GoogleBooksReact"
-            appLink="https://git.heroku.com/react-books-search1221.git
-            "
+            appLink="https://git.heroku.com/react-books-search1221.git"
           />
         </div>
       </div>
