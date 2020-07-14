@@ -29,13 +29,13 @@ function AboutMe() {
             </p>
             <p>
               {" "}
-              I have worked almost every kind of job you can possibly get with
-              almost no skills and i am ready to put my coding knowledge to use
-              and do something that allows me to apply my skills and earn more.
-              I have learned to deveop software for multiple platforms using
-              several different technologies, and i am always eager to learn
-              something new.
+              Graduate of Kansas University with a Certificate in Full Stack Web
+              Development and a strong dedication to learning everything there
+              is to know about computers. Great at combining problem solving
+              with an unstoppable work ethic to build user-friendly
+              applications.
             </p>
+            <p>Please contact me at jomainrouser12@gmail.com</p>
           </div>
         </div>
         <div className="row">
