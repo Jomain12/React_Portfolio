@@ -35,7 +35,6 @@ function AboutMe() {
               with an unstoppable work ethic to build user-friendly
               applications.
             </p>
-            <p>Please contact me at jomainrouser12@gmail.com</p>
           </div>
         </div>
         <div className="row">
