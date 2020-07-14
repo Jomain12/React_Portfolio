@@ -54,7 +54,7 @@ function AboutMe() {
             <ul id="Links">
               <li>
                 <a
-                  href="https://docs.google.com/document/d/1OY3z_M6lOyJ_OXBNfGGpXldhowNiqnVOm4MK7xUK2Fc/edit"
+                  href="https://docs.google.com/document/d/1HXwruq0lhYBM1jcBxTaWHC6OR5fkZPsrSTGuI_rUO_I/edit?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
