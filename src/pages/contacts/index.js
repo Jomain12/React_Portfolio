@@ -15,25 +15,13 @@ function Contacts() {
           <div>
             <label for="name">Name:</label>
             <br />
-            <input className="usrInput form-control" type="text" id="name" />
+            <p> Jomain Daniel Rouser</p>
           </div>
           <div>
             <label for="mail">Email:</label>
             <br />
-            <input className="usrInput form-control" type="email" id="mail" />
+            <p> jomainrouser12@gmail.com</p>
           </div>
-          <div>
-            <label for="msg">Message:</label>
-            <br />
-            <textarea
-              className="usrInput form-control"
-              id="msg"
-              rows="10"
-            ></textarea>
-          </div>
-          <button id="btnSubmit" type="submit">
-            Submit
-          </button>
         </form>
       </div>
     </div>
