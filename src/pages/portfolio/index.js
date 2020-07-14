@@ -32,12 +32,12 @@ function Portfolio() {
             appLink="https://jomain-covid19.herokuapp.com/#/"
           />
           <Project
-            imgSrc="./images/burger-icon.jpg"
-            imgTitle="Eat the Burger"
-            description="Node Express Handlebars application with MySQL to Log Burgers to eat."
+            imgSrc="./images/books.jpg"
+            imgTitle="React Books Search"
+            description="Allows you to search for books based off of several different criteria then provides you a link to look at that book or allows you to save the book for later so you can come back if you're not sure if you want it."
             authors="Jomain Rouser"
-            repoLink="https://github.com/Jomain12/burger"
-            appLink="https://git.heroku.com/jomain-burgers.git"
+            repoLink="https://github.com/Jomain12/GoogleBooksReact"
+            appLink="https://react-books-search1221.herokuapp.com/"
           />
         </div>
         <div className="row">
@@ -82,14 +82,6 @@ function Portfolio() {
             authors="Jomain Rouser"
             repoLink="https://github.com/Jomain12/reactEmployeeDirectory"
             appLink="https://git.heroku.com/jomain-employeedirectory.git"
-          />
-          <Project
-            imgSrc="./images/books.jpg"
-            imgTitle="React Books Search"
-            description="Allows you to search for books based off of several different criteria then provides you a link to look at that book or allows you to save the book for later so you can come back if you're not sure if you want it."
-            authors="Jomain Rouser"
-            repoLink="https://github.com/Jomain12/GoogleBooksReact"
-            appLink="https://git.heroku.com/react-books-search1221.git"
           />
         </div>
       </div>
