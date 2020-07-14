@@ -50,20 +50,20 @@ function Portfolio() {
             appLink="https://jomain12.github.io/weather_api/"
           />
           <Project
-            imgSrc="./images/notetaker.jpg"
-            imgTitle="Note Taker"
-            description="This application allows the user to Create, Save, Display, and Delete Notes."
-            authors="Jomain Rouser"
-            repoLink="https://github.com/Jomain12/note_taker"
-            appLink="https://git.heroku.com/jomain-notetaker.git/"
-          />
-          <Project
             imgSrc="./images/codequiz.jpg"
             imgTitle="JavaScript Code Quiz"
             description="Timed Code Quiz that stores the users scores in the Local Storage as well as on the display page."
             authors="Jomain Rouser"
             repoLink="https://github.com/Jomain12/codeQuiz"
             appLink="https://jomain12.github.io/codeQuiz/"
+          />
+          <Project
+            imgSrc="./images/directory.jpg"
+            imgTitle="React Employee Directory"
+            description="Allows you to look through a list of employees and filter then by first name."
+            authors="Jomain Rouser"
+            repoLink="https://github.com/Jomain12/reactEmployeeDirectory"
+            appLink="https://git.heroku.com/jomain-employeedirectory.git"
           />
         </div>
         <div className="row">
@@ -74,14 +74,6 @@ function Portfolio() {
             authors="Jomain Rouser"
             repoLink="https://github.com/Jomain12/passwordGenerator"
             appLink="https://jomain12.github.io/passwordGenerator/"
-          />
-          <Project
-            imgSrc="./images/directory.jpg"
-            imgTitle="React Employee Directory"
-            description="Allows you to look through a list of employees and filter then by first name."
-            authors="Jomain Rouser"
-            repoLink="https://github.com/Jomain12/reactEmployeeDirectory"
-            appLink="https://git.heroku.com/jomain-employeedirectory.git"
           />
         </div>
       </div>
