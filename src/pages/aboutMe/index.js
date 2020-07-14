@@ -47,6 +47,7 @@ function AboutMe() {
               <li>MongoDb atlas/cloud/server</li>
               <li>Visual Studio</li>
               <li>React</li>
+              <li>Unity</li>
             </ul>
           </div>
           <div className="col-md-6">
