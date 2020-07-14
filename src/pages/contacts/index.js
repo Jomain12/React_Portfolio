@@ -15,7 +15,7 @@ function Contacts() {
           <div>
             <label for="name">Name:</label>
             <br />
-            <p> Jomain Daniel Rouser</p>
+            <p> Jomain Daniel Rouser II</p>
           </div>
           <div>
             <label for="mail">Email:</label>
