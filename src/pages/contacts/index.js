@@ -13,7 +13,7 @@ function Contacts() {
         </div>
         <form id="frmContact" action="/my-handling-form-page" method="post">
           <div>
-            <label for="name">Name:</label>
+            <label for="name">Full Name:</label>
             <br />
             <p> Jomain Daniel Rouser II</p>
           </div>
