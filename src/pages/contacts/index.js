@@ -2,7 +2,7 @@ import React from "react";
 
 function Contacts() {
   return (
-    <div>
+    <div className="background">
       <div className="container content mt-4">
         <div className="row mt-2">
           <div className="col-md-12">

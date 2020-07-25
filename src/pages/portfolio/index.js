@@ -3,7 +3,7 @@ import Project from "../../components/Project";
 
 function Portfolio() {
   return (
-    <div>
+    <div className="background">
       <div className="container content mt-4">
         <div className="row">
           <div className="col-md-12">

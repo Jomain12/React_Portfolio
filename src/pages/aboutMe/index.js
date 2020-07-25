@@ -2,8 +2,8 @@ import React from "react";
 
 function AboutMe() {
   return (
-    <div>
-      <div className="container content mt-4">
+    <div className="background">
+      <div className="container content mt-4 ">
         <div className="row mt-2">
           <div className="col-md-12">
             <div id="contentHeader">
@@ -47,6 +47,7 @@ function AboutMe() {
               <li>MongoDb atlas/cloud/server</li>
               <li>Visual Studio</li>
               <li>React</li>
+              <li>Redux</li>
               <li>Unity</li>
             </ul>
           </div>

@@ -8,3 +8,7 @@
 .btn-group {
   margin: 0 auto;
 }
+
+.background {
+  background-image: url(./background/portfoliobackground.jpg);
+}
